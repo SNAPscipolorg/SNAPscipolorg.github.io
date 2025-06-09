@@ -16,16 +16,16 @@
       position: relative;
     }
     body::before {
-  content: "";
-  position: absolute;
-  bottom: 30vh;
-  left: -200px;
-  width: 800px;
-  height: 800px;
-  background: radial-gradient(circle, rgba(233,132,51,0.5) 0%, rgba(255,255,255,0) 70%);
-  z-index: 0;
-  pointer-events: none;
-}
+      content: "";
+      position: absolute;
+      bottom: 30vh;
+      left: -200px;
+      width: 800px;
+      height: 800px;
+      background: radial-gradient(circle, rgba(233,132,51,0.5) 0%, rgba(255,255,255,0) 70%);
+      z-index: 0;
+      pointer-events: none;
+    }
     header {
       background: transparent;
       padding: 1.5rem;
@@ -42,37 +42,37 @@
       margin-left: 30px;
     }
     @media (max-width: 768px) {
-  main {
-    padding: 0 1.5rem !important;
-    margin: 2rem auto 6rem auto !important;
+    main {
+      padding: 0 1.5rem !important;
+      margin: 2rem auto 6rem auto !important;
+    }
+    main {
+      padding: 0 1.5rem;
+      margin: 2rem auto 6rem auto;
+    }
+    main {
+      padding: 0 1.5rem;
+      margin: 2rem auto 6rem auto;
+    }
+    header img {
+      margin-left: 15px;
+      max-width: 90%;
+    }
+    .mcclintock-section {
+      flex-direction: column;
+      align-items: center;
+    }
+    .mcclintock-image {
+      max-width: 100%;
+    }
   }
-  main {
-    padding: 0 1.5rem;
+    main {
+    max-width: 800px;
     margin: 2rem auto 6rem auto;
+    padding: 0 1.5rem 0 1.5rem;
+    position: relative;
+    z-index: 1;
   }
-  main {
-    padding: 0 1.5rem;
-    margin: 2rem auto 6rem auto;
-  }
-  header img {
-    margin-left: 15px;
-    max-width: 90%;
-  }
-  .mcclintock-section {
-    flex-direction: column;
-    align-items: center;
-  }
-  .mcclintock-image {
-    max-width: 100%;
-  }
-}
-  main {
-  max-width: 800px;
-  margin: 2rem auto 6rem auto;
-  padding: 0 1.5rem 0 1.5rem;
-  position: relative;
-  z-index: 1;
-}
   .mcclintock-section {
     flex-direction: column;
     align-items: center;
@@ -101,64 +101,64 @@
     max-width: 100%;
   }
 
-      main {
+    main {
   max-width: 800px;
   margin: 2rem auto 6rem auto;
   padding: 0 1.5rem;
   position: relative;
   z-index: 1;
-}
-      .mcclintock-section {
-        flex-direction: column;
-        align-items: center;
-      }
-      .mcclintock-image {
-        max-width: 100%;
-      }
-    
-    
-    main {
-      max-width: 800px;
-      margin: 2rem 0 6rem auto;
-      padding: 0 4rem 0 0;
-      position: relative;
-      z-index: 1;
-    }
-    section {
-      margin-bottom: 3.5rem;
-    }
-    h2 {
-      color: #004466;
-      font-family: 'Questrial', sans-serif;
-    }
-    
-    .mcclintock-section {
-      display: flex;
-      flex-direction: row;
-      align-items: flex-start;
-      gap: 1rem;
-      flex-wrap: wrap;
-    }
-    .mcclintock-text {
-      flex: 2 1 300px;
-    }
-    .mcclintock-image {
-      flex: 1 1 150px;
-      max-width: 200px;
-    }
-    .mcclintock-image img {
-      width: 100%;
-      height: auto;
-    }
-    .attribution {
-      font-size: 0.6rem;
-      color: #666;
-    }
-  @media (min-width: 1200px) {
-  main {
-    margin-left: auto;
-    margin-right: 10vw;
   }
+  .mcclintock-section {
+    flex-direction: column;
+    align-items: center;
+  }
+  .mcclintock-image {
+    max-width: 100%;
+  }
+
+  
+  main {
+    max-width: 800px;
+    margin: 2rem 0 6rem auto;
+    padding: 0 4rem 0 0;
+    position: relative;
+    z-index: 1;
+  }
+  section {
+    margin-bottom: 3.5rem;
+  }
+  h2 {
+    color: #004466;
+    font-family: 'Questrial', sans-serif;
+  }
+    
+  .mcclintock-section {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+  .mcclintock-text {
+    flex: 2 1 300px;
+  }
+  .mcclintock-image {
+    flex: 1 1 150px;
+    max-width: 200px;
+  }
+  .mcclintock-image img {
+    width: 100%;
+    height: auto;
+  }
+  .attribution {
+    font-size: 0.6rem;
+    color: #666;
+  }
+@media (min-width: 1200px) {
+main {
+  margin-left: auto;
+  margin-right: 10vw;
+}
 }
   
 a {
