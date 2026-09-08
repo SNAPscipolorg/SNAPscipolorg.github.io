@@ -159,6 +159,9 @@ published: true
         <li>
           <div>
             {{ q.question | markdownify | remove_first: "<p>" | remove: "</p>" | strip }}{% if q_tag_list.size > 0 %} (<em>see{% for t in q_tag_list %}{% if forloop.first %} "{{ t }}"{% elsif forloop.last %}{% if q_tag_list.size > 2 %}, and "{{ t }}"{% else %} and "{{ t }}"{% endif %}{% else %}, "{{ t }}"{% endif %}{% endfor %}</em>){% endif %}
+            {%- if q.races and q.races.size > 0 -%}
+              <span class="question-applicability">Asked of: {{ q.races | join: ", " }} candidates.</span>
+            {%- endif -%}
           </div>
         </li>
       {%- endfor -%}
