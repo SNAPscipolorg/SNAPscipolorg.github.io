@@ -97,6 +97,7 @@
   party: Democratic
   question: mi-q1-all-races
   date:
+  primary_candidate: true
   response: |
     "We’ve all seen the harm that emotional based legislation can cause. I’m a firm believer in evidence based research and listening to subject matter experts. As a healthcare provider I can’t possibly know the answer to every question but I am trained to find the person who knows the answer and verify their answer. That is the same method I plan to legislate with. I communicate this everyday with my patients. It involves a little bit of story telling and a lot of metaphors. The average person doesn’t speak scientist so we need people that can translate to living room language."
 
@@ -110,6 +111,7 @@
   party: Democratic
   question: mi-q2-all-races
   date:
+  primary_candidate: true
   response: |
     "The government serves to fund the research that might be world changing but lacks a clear path to profitability. I view university and government funded research as the foundation builders of our scientific advancement. No single block in your foundation is remarkable but it might be the bearing point for the entire structure above it. The basis of success is that someone somewhere uses a piece of government funded research to make the world a better place."
 
@@ -123,6 +125,7 @@
   party: Democratic
   question: mi-q3-house-senate
   date:
+  primary_candidate: true
   response: |
     "From a scientific standpoint I fully support research and investment into reducing human impact on the climate, alternative fuel sources for farm equipment, more efficient farm equipment, better soil science to reduce the fertilizer input needed, more efficient and less energy intensive fertilizers, combining renewable energy sources with agriculture, crops that are lest reliant on pesticides/herbicides, and the development of healthier end products for the consumer."
 
@@ -136,6 +139,7 @@
   party: Democratic
   question: mi-q4-governor-house
   date:
+  primary_candidate: true
   response: |
     "Without clean drinking water we die so water protection needs to be a number one priority. The first step is to increase enforcement against polluters because it’s easier to prevent pollution than it is to clean it up. Funding research into reducing the amount of water needed in any number of industrial or agriculture processes will protect the resources we have. Significant funding and research needs to go into developing water purification and reclamation systems that give us access to previously contaminated water sources. All of America’s infrastructure needs a significant overhaul to improve reliability and safety which will also provide good high paying jobs for communities."
 
@@ -149,6 +153,7 @@
   party: Democratic
   question: mi-q5-governor-house
   date:
+  primary_candidate: true
   response: |
     "Single payer healthcare is the biggest improvement we could make. Reducing the multiple layers of bureaucracy and profit taking in the system would free money up for providers and reducing the administrative burden will increase the likelihood that providers stay in the field. Providing more innovation in the telehealth field will allow more access to specialist care but it will have to come with an overhaul of the payment system to allow providers to be reimbursed for their time when utilizing telehealth."
 
@@ -162,6 +167,7 @@
   party: Democratic
   question: mi-q7-house-senate
   date:
+  primary_candidate: true
   response: |
     "We should be looking at every available power generation method and be looking at how to make them more efficient. There isn’t a magical single solution to our problem, different environments and applications will have specialized needs. Again the governments role is to create the foundational research that allows private industry a boost to create a commercially viable product. We shouldn’t be protecting legacy industry when there is a better alternative but on the other hand we shouldn’t blindly push a new technology just because it’s new. Fund the research and follow the science to the best solution for the problem."
 
@@ -175,6 +181,7 @@
   party: Democratic
   question: mi-q9-governor-house
   date:
+  primary_candidate: true
   response: |
     "Data centers should be placed in industrial areas where the infrastructure is already in place to support them. They should be required to use recycled water for cooling or some other methods that doesn’t draw from ground water, build a green energy source that supplies their power, not pass on any infrastructure cost to the public via utility price hikes or cost to government services, limit noise and heat pollution from reaching neighbors, and provide the community it’s located in a reclamation bond to restore the site when the AI data bubble bursts and the site is abandoned."
 
@@ -307,6 +314,7 @@
   party: Republican
   question: mi-q1-all-races
   date:
+  primary_candidate: true
   response: |
     "Scientific and technical experts provide valuable information that should inform policy decisions, especially in healthcare, infrastructure, manufacturing, agriculture, and energy. However, experts should advise elected officials, not replace them. Policymakers must balance scientific evidence with economic impacts, public input, constitutional principles, and local needs. When evidence evolves, government officials should communicate honestly about what is known, what remains uncertain, and why decisions are being made. Transparency builds trust and leads to better outcomes."
 
@@ -320,6 +328,7 @@
   party: Republican
   question: mi-q2-all-races
   date:
+  primary_candidate: true
   response: |
     "Scientific research has helped improve healthcare, agriculture, manufacturing, and national security. Federal investment should focus on areas that strengthen America's competitiveness, improve quality of life, and address clear national priorities. Taxpayer-funded research should be subject to rigorous oversight, measurable outcomes, and public accountability. I support investments that advance innovation, develop new technologies, support critical industries, and produce tangible benefits for American families and businesses."
 
@@ -333,6 +342,7 @@
   party: Republican
   question: mi-q3-house-senate
   date:
+  primary_candidate: true
   response: |
     "Michigan's farmers face increasing challenges from weather variability, global competition, labor shortages, and rising costs. Research and innovation can help improve productivity, crop resilience, resource efficiency, and profitability. I support partnerships among farmers, universities, and the private sector to develop practical solutions that help producers remain competitive. Investments should prioritize real-world applications that strengthen domestic food production, reduce costs, and support rural communities."
 
@@ -346,6 +356,7 @@
   party: Republican
   question: mi-q4-governor-house
   date:
+  primary_candidate: true
   response: |
     "Every Michigan resident deserves access to safe drinking water and reliable infrastructure. I support investments in upgrading aging water systems, replacing failing infrastructure, and addressing contamination that threatens public health. Protecting the Great Lakes is both an environmental and economic priority. Federal resources should be used responsibly and in partnership with state and local governments to ensure clean water while minimizing unnecessary regulatory burdens that hinder growth and development."
 
@@ -359,6 +370,7 @@
   party: Republican
   question: mi-q5-governor-house
   date:
+  primary_candidate: true
   response: |
     "Many communities face shortages of healthcare providers, especially in rural and underserved areas. Expanding access to telehealth, supporting workforce development, and reducing barriers to care can help address these challenges. Emerging technologies can improve healthcare delivery, enhance diagnostics, and increase efficiency, but they should complement, not replace, the relationship between patients and healthcare professionals. The goal should be accessible, affordable, high-quality care for all communities."
 
@@ -372,6 +384,7 @@
   party: Republican
   question: mi-q7-house-senate
   date:
+  primary_candidate: true
   response: |
     "America needs a reliable, affordable, and secure energy supply to support economic growth, manufacturing, and national security. I support an all-of-the-above energy strategy that includes natural gas, nuclear power, renewables, and emerging technologies. Energy policy should prioritize reliability, affordability, and domestic production while encouraging innovation and responsible stewardship. No single energy source can meet future demand alone, especially as manufacturing and data centers increase electricity consumption."
 
@@ -385,6 +398,7 @@
   party: Republican
   question: mi-q9-governor-house
   date:
+  primary_candidate: true
   response: |
     "Artificial intelligence and data centers are becoming increasingly important to economic growth, manufacturing, healthcare, and national security. Policies should encourage innovation while ensuring adequate energy infrastructure, grid reliability, and responsible resource management. The federal government should support infrastructure improvements that allow technological growth without compromising affordability or reliability for households and businesses. Regulatory approaches should provide clear rules while preserving America's leadership in innovation and technological development."
 
@@ -398,6 +412,7 @@
   party: Democratic
   question: mi-q1-all-races
   date:
+  primary_candidate: true
   response: |
     "Scientific evidence should be the starting point—not the finish line. Good policy comes from combining the best available research with real-world experience, local knowledge, economics, and the values of the people we represent.
     
@@ -417,6 +432,7 @@
   party: Democratic
   question: mi-q2-all-races
   date:
+  primary_candidate: true
   response: |
     "Government should invest where the private sector won't—or can't—because that's often where the biggest breakthroughs begin. Many of the technologies we rely on today—from the internet and GPS to life-saving medical treatments—grew out of public research before becoming private-sector success stories.
     
@@ -436,6 +452,7 @@
   party: Democratic
   question: mi-q3-house-senate
   date:
+  primary_candidate: true
   response: |
     "Farmers don't need Washington telling them how to farm. They need Washington helping them stay competitive.
     
@@ -459,6 +476,7 @@
   party: Democratic
   question: mi-q4-governor-house
   date:
+  primary_candidate: true
   response: |
     "Clean water isn't a partisan issue—it's a basic responsibility. The Great Lakes hold nearly 20% of the world's surface fresh water. Protecting them isn't just good environmental policy; it's essential to Michigan's economy, public health, tourism, and way of life.
     
@@ -478,6 +496,7 @@
   party: Democratic
   question: mi-q5-governor-house
   date:
+  primary_candidate: true
   response: |
     "Healthcare shouldn't depend on your ZIP code. In Northern Michigan and the Upper Peninsula, too many families drive hours to see a specialist—or can't find one at all. That's not just inconvenient; it's a barrier to staying healthy.
     
@@ -497,6 +516,7 @@
   party: Democratic
   question: mi-q7-house-senate
   date:
+  primary_candidate: true
   response: |
     "Michigan has everything it needs to be an energy leader. We don't have to choose between protecting the environment and growing our economy—we can do both.
     
@@ -518,6 +538,7 @@
   party: Democratic
   question: mi-q9-governor-house
   date:
+  primary_candidate: true
   response: |
     "Artificial intelligence has enormous potential, but Michigan's natural resources are not for sale. If AI data centers want to locate here, they should meet Michigan's standards—not ask Michigan to lower them.
     
@@ -630,6 +651,7 @@
   party: Democratic
   question: mi-q1-all-races
   date:
+  primary_candidate: true
   response: |
     "Scientific evidence and expertise should play a fundamental role in policy making. I would ask for clarification and evidence to support their conclusion. I would notify my constituents and demand investigations and scientific proof."
     
@@ -643,6 +665,7 @@
   party: Democratic
   question: mi-q2-all-races
   date:
+  primary_candidate: true
   response: |
     "The government’s role in scientific research is of paramount importance. Scientific research is the basis for our high standard of living, health and innovation. My priorities would certainly include research in cures for cancer and diabetes. Research to stabilize global warming and climate change will get investments as well."    
     
@@ -656,6 +679,7 @@
   party: Democratic
   question: mi-q3-house-senate
   date:
+  primary_candidate: true
   response: |
     "Farmers could benefit from insurance policies that will cover them when drought, flooding and unforeseen weather related catastrophes occur. Farmer should have a Fair Farm Bill that guarantee fair prices for crop sales, dairy and meat. Scientific research could help farmers plan their planting season, determining which crops to plant and rotate, to understanding soil nutrients and composition. All this and more is possible with research."
         
@@ -669,6 +693,7 @@
   party: Democratic
   question: mi-q4-governor-house
   date:
+  primary_candidate: true
   response: |
     "Protect our drinking water at all costs. Without safe drinking water we’re all doomed. I will support investments and legislation to improve the quality standards that we currently enjoy. Industrial waste contaminating our Great Lakes, inland lakes, rivers and streams would be subjected to regulatory agencies highest scrutiny. Companies and corporations that pollute our environment would be held accountable. I am opposed to Line 5’s operation. I would rather error on the side of caution than to potentially expose millions of people to contamination, disrupting the ecosystem and environment."
     
@@ -682,6 +707,7 @@
   party: Democratic
   question: mi-q5-governor-house
   date:
+  primary_candidate: true
   response: |
     "Everyone deserves health care. I believe healthcare is a right not a privilege. I would expand healthcare coverage to more people through Medicare and Medicaid. I’d like to see a single payer healthcare system where the government is the sole negotiator with big pharma over drug prices. In order to save money, the government would be very conservative and it is my belief that prices would fall precipitously.
     We should invest in more rural hospitals and health centers. We need to tax the ultra wealthy. They should pay their fair share of taxes and be forced to relinquish the billions they’re going to receive from the OBBBA (One Big BustedB Bill Act)."
@@ -696,6 +722,7 @@
   party: Democratic
   question: mi-q7-house-senate
   date:
+  primary_candidate: true
   response: |
     "With the advent of new technologies, America’s energy demands are increasing. AI and Data Centers are popping up across the country. Although Data Centers will become necessary to handle the immensely, massive bits of information we rely on all day, everyday, we still have to strike the right balance if we are to co-exist. Nuclear, wind, solar and hydrogen powered generators required to help electricity power Data Centers, will lessen the negative effect that Data Centers produce. Generators powered by coal and fossil fuel will have worse environmental impact. I will support regulatory oversight and research to understand how to limit the negative impact these facilities will have on our fresh water supply, farmland, open spaces, forests and air. Research should be done to determine the impact of Data Centers, their costs, short term and long term jobs creation and where these center would be more acceptable."
     
@@ -709,6 +736,7 @@
   party: Democratic
   question: mi-q9-governor-house
   date:
+  primary_candidate: true
   response: |
     "Although AI and Data centers are rapidly expanding, I would encourage residents to ask questions and research areas that are prime for construction of Data Centers. Primarily, large areas of cheaper land, reservoirs of water, existing transmission lines are some necessary elements for Data Center’s construction. As said earlier the trade-off, or balance between environmental concerns versus technological advancement and job creation will be different in the eyes of residents in each community."
     

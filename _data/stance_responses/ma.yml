@@ -90,7 +90,7 @@
   party: Democratic
   question: ma-q5
   date: 2026-07-07
-  primary_candidate: false
+  primary_candidate: true
   response: |
     I would like to see free community college extended past age 25 in MA and provide some type of "last dollar" program based on need that would cover tuition and fees to public 4 year schools on a sliding income scale. The state also needs to rededicate itself to overall public higher ed funding to levels similar to the early 2000s.
 
@@ -102,7 +102,7 @@
   party: Democratic
   question: ma-q6
   date: 2026-07-07
-  primary_candidate: false
+  primary_candidate: true
   response: |
     This goes hand in hand with the increased financial support I want to see from the state. The focus on that increased support must be aimed at providing opportunities and access such as this.
 
@@ -114,7 +114,7 @@
   party: Democratic
   question: ma-q2
   date: 2026-07-07
-  primary_candidate: false
+  primary_candidate: true
   response: |
     As someone who worked for years in IT & now serve on school committee, it is a real issue. School districts need to create guidelines on use for students, teachers and administrators. This needs to be done with instruction on critical thinking and appropriate use. Technology is never something people stop, education is something we can do.
 
@@ -126,7 +126,7 @@
   party: Democratic
   question: ma-q3
   date: 2026-07-07
-  primary_candidate: false
+  primary_candidate: true
   response: |
     I'm fortunate that in the 3 towns of my district, 30% or more of the land is protected. But we also live over a sole source aquifer, so water protection is critical. I have testified at the local level and state level about the need to restrict pesticides. There is a bill to prohibit the state from using them on state lands, I support this. We are also blessed with well used and supported open space for residents and visitors, which should of course continue.
 
@@ -138,7 +138,7 @@
   party: Democratic
   question: ma-q4
   date: 2026-07-07
-  primary_candidate: false
+  primary_candidate: true
   response: |
     I support single payer. MassCare recently put out a report that show that this can be a cost saver to the state also, so I am on board with efforts to move this forward.
 
@@ -150,7 +150,7 @@
   party: Democratic
   question: ma-q5
   date: 2026-07-14
-  primary_candidate: false
+  primary_candidate: true
   response: |
     As someone who is currently pursuing my doctorate, I understand both the value of education and the financial barriers many students face. I strongly believe Massachusetts should strengthen partnerships among schools, employers, labor unions, and research institutions to create clear pathways into high demand careers in healthcare, education, clean energy, biotechnology, and advanced manufacturing. I support expanding need-based financial aid, increasing funding for MassGrant and community colleges, strengthening work-study opportunities, and investing in apprenticeship and workforce training programs that allow students to earn while they learn. I also support expanding paid internships so students can gain meaningful experience without sacrificing income. We must continue investing in public colleges and universities to reduce tuition pressures while ensuring students have access to affordable housing, transportation, childcare, and mental health services. These supports are especially important for first-generation students, student parents, and adult learners.
 
@@ -162,7 +162,7 @@
   party: Democratic
   question: ma-q6
   date: 2026-07-14
-  primary_candidate: false
+  primary_candidate: true
   response: |
     Massachusetts is a global leader in research and innovation, and we must continue investing in the people who make those discoveries possible. I support increasing state investment in competitive fellowships, research training grants, and partnerships among universities, hospitals, nonprofit organizations, and industry. Graduate students and early-career researchers deserve opportunities that allow them to develop professionally without facing unnecessary financial hardship. I'm also in support of expanding paid research positions, interdisciplinary collaborations, and mentorship programs that connect emerging scientists with experienced researchers, clinicians, entrepreneurs, and public servants.
 
@@ -176,7 +176,7 @@
   party: Democratic
   question: ma-q2
   date: 2026-07-14
-  primary_candidate: false
+  primary_candidate: true
   response: |
     I believe that Artificial intelligence presents enormous opportunities, but innovation must be accompanied by accountability. I support a risk-based approach to AI governance that focuses oversight where potential harm is greatest. Systems used in healthcare, housing, employment, education, criminal justice, and financial services should meet standards for transparency, privacy, cybersecurity, and independent evaluation to reduce bias and protect civil rights. Massachusetts should encourage responsible AI development while supporting our world-class research institutions and technology companies. Regulations should be flexible enough to evolve alongside technology rather than creating unnecessary barriers for startups, researchers, and entrepreneurs. I also support strong protections for personal data, disclosure when AI is making or significantly influencing important decisions, and safeguards against the misuse of AI-generated misinformation and deepfakes, particularly in elections and fraud.
 
@@ -188,7 +188,7 @@
   party: Democratic
   question: ma-q3
   date: 2026-07-14
-  primary_candidate: false
+  primary_candidate: true
   response: |
     Massachusetts should continue investing in clean drinking water infrastructure, watershed protection, flood mitigation, and the restoration of rivers, wetlands, and forests. These natural systems help reduce flooding, improve water quality, support biodiversity, and strengthen our resilience to climate change. I'm a supporter of preserving parks, farms, and open spaces while ensuring equitable access to safe recreational areas. Communities like Springfield deserve the same access to quality green spaces as every other part of the Commonwealth because parks improve physical health, mental well-being, and community connections. Environmental justice must remain a priority. Historically underserved communities often bear a disproportionate burden of pollution and environmental hazards. Decisions about land use should be informed by scientific data, public health evidence, and meaningful community engagement. Expanding urban tree canopies, promoting climate-resilient infrastructure, encouraging sustainable agriculture, and investing in renewable energy projects that protect sensitive ecosystems should all be priorities when it comes to land-based resources.
 
@@ -200,7 +200,7 @@
   party: Democratic
   question: ma-q4
   date: 2026-07-14
-  primary_candidate: false
+  primary_candidate: true
   response: |
     As a mental health clinician, I have seen firsthand how delays in care, provider shortages, and financial barriers negatively affect individuals and families. I support expanding access to primary care, behavioral health services, reproductive healthcare, maternal healthcare, preventive care, and substance use treatment. This includes strengthening community health centers, increasing the healthcare workforce, and expanding telehealth where appropriate to improve access, particularly in underserved communities. I also support policies that reduce prescription drug costs, improve insurance affordability, and eliminate unnecessary barriers to evidence-based care. Mental health should be treated with the same urgency as physical health, with continued investment in crisis response, early intervention, and integrated care models.
 
@@ -212,7 +212,7 @@
   party: Democratic
   question: ma-q1
   date: 2026-07-13
-  primary_candidate: false
+  primary_candidate: true
   response: |
     The fundamental question is who is this innovation actually serving? Right now, the billionaire class and corporate monopolies are co-opting public resources. Taxpayers fund groundbreaking research at our universities, only for Big Pharma and Silicon Valley to privatize the patents, jack up prices, and shut out working families. I will fight for a research ecosystem centered on moral clarity, worker power, and public equity. Such as, Funding the Public Good: I will fight to expand federal funding for foundational science through the NSF and NIH. However, public dollars must come with public-interest conditions. If taxpayer money funds a medical breakthrough or a green technology, the resulting patents must remain affordable and accessible to everyone, not locked behind a corporate paywall. Secondly, democratizing opportunity where talent is distributed evenly, but opportunity is not. We must diversify federal research investments away from just elite institutions and toward public universities, regional hubs, and minority-serving institutions (MSIs), creating a diverse, localized STEM pipeline. Lastly, pro-Worker oversight oversight shouldn't mean bureaucratic red tape for scientists; it means putting strict ethical guardrails on emerging tech like advanced AI
 
@@ -224,7 +224,7 @@
   party: Democratic
   question: ma-q2
   date: 2026-07-13
-  primary_candidate: false
+  primary_candidate: true
   response: |
     I believe our government's job isn't to subsidize corporate automation; it is to protect the working class. As a Representative, I support specific, aggressive forms of AI regulation focused on: protecting Union Jobs and Labor: such as strict legislation that prevents corporations from using AI to unilaterally automate away good-paying, unionized jobs or to lower wages. AI should be a tool that assists human workers, not an excuse to mass-lay off the people who power our economy. As well as banning biased algorithmic discrimination, we must regulate AI tools used in corporate hiring, housing applications, and loan approvals, which have consistently been shown to bake in racial and economic biases and worker surveillance guardrails: I will fight to outlaw invasive, AI-driven electronic surveillance and data tracking used by mega-corporations to police workers on the job. My goal is to draw the line at protecting human capital. "Innovation" is meaningless if it leaves thousands of working families paycheck to paycheck while funneling millions to tech billionaires. Necessary oversight means ensuring that technological growth serves the common good and is shaped by workers and labor unions.
 
@@ -236,7 +236,7 @@
   party: Democratic
   question: ma-q3
   date: 2026-07-13
-  primary_candidate: false
+  primary_candidate: true
   response: |
     For too long, the political establishment has allowed corporate interests, luxury developers, and private polluters to compromise our public commons. Clean water, thriving state parks, and protected open spaces are fundamental rights that belong to every working-family, not bargaining chips for the wealthy. We must fund a modern Civilian Climate Corps to put local residents to work restoring our state parks, expanding open-space preserves, and building resilient flood protections in our coastal and river communities. This ensures conservation translates directly into high-wage, union jobs. Additionally, land and water management policies must prioritize communities that have historically borne the brunt of pollution and industrial neglect. I support strict federal oversight to protect our clean water supplies from corporate chemical dumping (like PFAS contamination) and will fight to ensure that green open spaces are heavily expanded in urban and working-class neighborhoods, not just affluent suburbs. I strongly oppose the privatization of public lands and the selling off of open spaces to luxury real estate developers. Our parks and preserves must remain permanently protected public trusts, fully funded by federal and state investments rather than reliance on corporate donors. I will fight to reallocate resources away from corporate handouts and toward the preservation of our land, ensuring our natural resources are protected for generations to come.
 
@@ -248,6 +248,767 @@
   party: Democratic
   question: ma-q4
   date: 2026-07-13
-  primary_candidate: false
+  primary_candidate: true
   response: |
     Your health should never be a source of financial ruin. Right now, the political establishment accepts hundreds of thousands of dollars from Big Pharma and private health insurance HMOs, leaving us with a system rigged to prioritize corporate profits over human lives. Too many working families in Massachusetts’s 5th District are forced to ration lifesaving medication or skip doctor visits because of out-of-control premiums, deductibles, and co-pays. I fully support a single-payer, universal Medicare for All system. Healthcare is a fundamental right, not a commodity. We must eliminate the private insurance middleman to ensure every constituent has comprehensive coverage that is completely free at the point of service: covering medical, dental, vision, mental health, and reproductive care with zero deductibles or co-pays. Additionally, I will fight for robust antitrust laws to break up healthcare monopolies and give the federal government the absolute authority to negotiate all prescription drug prices. No senior or working-class family should be forced to choose between buying groceries and paying for insulin while pharmaceutical executives rake in record billions. True access requires robust public infrastructure. I support significantly expanding federal funding for regional community health centers, mental health clinics, and mobile health units, particularly in our underserved and working-class neighborhoods. Furthermore, we must protect and empower our frontline healthcare workers by ensuring safe staffing ratios, fair wages, and the universal right to unionize. We have the money to fund a humane, compassionate healthcare system. I will vote to reallocate excessive military funding and corporate tax loopholes directly into our local public health systems, schools, and affordable housing, because true public safety and wellness start by meeting people’s basic material needs. I will not accept corporate PAC money, which means my only obligation in Washington will be to the health and well-being of working families, not insurance company boardrooms.
+
+- candidate_first_name: Tom
+  candidate_last_name: Hendrickson
+  state: ma
+  race: State House of Representatives
+  district: 3rd Hampden
+  party: Democratic
+  question: ma-q5
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Massachusetts currently offers tuition-free community college to Massachusetts residents through MassEducate and MassReconnect; I support efforts to expand these programs to make all of Massachusetts’s public colleges and universities tuition-free.  I support making public colleges and universities tuition-free because I strongly believe that education is a human right, that cost should not be a barrier for obtaining a good education, and that everyone collectively benefits from living in a more educated society.
+
+- candidate_first_name: Tom
+  candidate_last_name: Hendrickson
+  state: ma
+  race: State House of Representatives
+  district: 3rd Hampden
+  party: Democratic
+  question: ma-q6
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    I support efforts to ensure that Massachusetts’s fellowships, professional training grants, and workforce development programs are well-funded and widely accessible in order to provide students throughout our commonwealth with opportunities.
+
+- candidate_first_name: Tom
+  candidate_last_name: Hendrickson
+  state: ma
+  race: State House of Representatives
+  district: 3rd Hampden
+  party: Democratic
+  question: ma-q2
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    I support regulations on AI to ensure that it is not used for unethical purposes and to ensure that people’s privacy is protected.  For example, I support banning the use of AI to depict people without their consent.  This has affected me personally; my opponent has been running AI-generated advertisements depicting me saying and doing things that I would never say or do.  This sort of thing is not only an invasion of my personal privacy, it’s also misleading to the public as a whole.
+
+    AI surveillance tools also need to be regulated.  AI-powered facial recognition tools and other surveillance technology is often an invasion of privacy and has been shown to discriminate.
+
+    Additionally, I’m concerned about AI data centers and their drain on the power grid.  Massachusetts’s power grid is already in a precarious condition, and energy prices are one of the most pressing cost-of-living issues facing our commonwealth.  I’m inclined to support a moratorium on these facilities given their severe impact on the power grid.
+
+- candidate_first_name: Tom
+  candidate_last_name: Hendrickson
+  state: ma
+  race: State House of Representatives
+  district: 3rd Hampden
+  party: Democratic
+  question: ma-q3
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Western Massachusetts is home to some of the most beautiful natural spaces in the country.  As our state representative, I will work to protect our water, air, and ecosystems from pollution and harm.
+
+- candidate_first_name: Tom
+  candidate_last_name: Hendrickson
+  state: ma
+  race: State House of Representatives
+  district: 3rd Hampden
+  party: Democratic
+  question: ma-q4
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    I strongly support single-payer healthcare in Massachusetts because we deserve a healthcare system that prioritizes public health over the profits of the health insurance industry.  Under a single-payer system, healthcare would be free at the point-of-service (premiums, deductibles, and copays would be eliminated) for all Massachusetts residents, and the overall cost of the system would be greatly reduced.  A 2023 study by UMass Amherst economist Gerald Friedman estimates that the adoption of a single-payer healthcare system would lower healthcare spending in Massachusetts by almost 11% or about $48.4 billion.
+
+- candidate_first_name: Connor
+  candidate_last_name: Murray
+  state: ma
+  race: State House of Representatives
+  district: 18th Essex
+  party: Democratic
+  question: ma-q5
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    Higher education should open doors, not block them behind a mountain of debt. I support increasing state investment in public colleges and universities, expanding need-based financial aid, and creating a pathway for in-state students to graduate college free of debt. The Commonwealth should also work to expand paid internships, apprenticeships, work-study, and employer partnerships so students can gain real experience without sacrificing financial stability, as well as opportunities to earn college credits during high school through dual-enrollment programs.
+
+    A student's success depends on more than tuition; it depends on housing, transportation, childcare, and the everyday costs that too often derail a degree in progress. I will prioritize policies that reduce those expenses, such as fare-free and reliable public transit and capping childcare costs at the federally recognized affordability standard of 7% of household income.
+
+    The future of our workforce depends on making college attainable for students from every background. Investing in education strengthens our economy, fuels innovation, and creates opportunity that positively impacts entire communities. Education is a public investment that pays dividends for generations.
+
+- candidate_first_name: Connor
+  candidate_last_name: Murray
+  state: ma
+  race: State House of Representatives
+  district: 18th Essex
+  party: Democratic
+  question: ma-q6
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    Graduate students and early-career researchers are the reason Massachusetts leads our country in science and innovation. I support expanding fellowships, research assistantships, and training grants so students can pursue their research without undue financial strain.
+
+    That support should come with mentorship, interdisciplinary collaboration, and real partnerships among universities, government agencies, and private industry, so we are providing students the kind of experience that turns scientific discovery into real-world solutions and strengthens our workforce along the way.
+
+    These opportunities should be within reach for students from every background and every institution across the Commonwealth, building a scientific community that reflects the people it serves. By investing in the next generation of scientists, Massachusetts can prioritize medical research, technological innovation, environmental protection, economic growth, and more, all at the same time. Support young researchers today, and Massachusetts stays what it has always been: a place discovery calls home.
+
+- candidate_first_name: Connor
+  candidate_last_name: Murray
+  state: ma
+  race: State House of Representatives
+  district: 18th Essex
+  party: Democratic
+  question: ma-q2
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+   Artificial intelligence holds real promise, but only when it is paired with responsible guardrails that adequately consider its impact on humanity and nature. Policymakers must carefully examine the potential for AI systems used in healthcare, employment, housing, education, or criminal justice to set society back, rather than drive it forward.
+
+   AI has already proven that it can serve the public interest, but leaders in our state government must recognize that we can keep Massachusetts at the cutting-edge of the technological frontier while simultaneously setting necessary regulations to protect civil rights. I support rules that protect peoples’ privacy, guard against discrimination, require transparency (especially in relation to automated decisions that affect people's rights or livelihoods), and shut the door on malicious uses of AI like deepfakes built to mislead voters or commit fraud.
+
+   I also consider the detrimental environmental impact of large-load AI data centers. These facilities should be built and operated sustainably, in a way that does not negatively alter their host communities. However, just a few miles from my district, the largest data center in Massachusetts turned a once thriving Lowell neighborhood into a nightmare for its residents due to excessive noise, pollution, and utility costs. Those are pressing issues that must be resolved before we dedicate further taxpayer resources to the industry’s expansion.
+
+   We can be proud of technological innovations like artificial intelligence, while also recognizing and responding to their apparent drawbacks, and that’s exactly what I intend to do if elected to the state legislature.
+
+
+- candidate_first_name: Connor
+  candidate_last_name: Murray
+  state: ma
+  race: State House of Representatives
+  district: 18th Essex
+  party: Democratic
+  question: ma-q3
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    Our natural resources aren't simply a backdrop to Massachusetts’ economy and public health; they are the very foundation upon which the Commonwealth is built. Our state budget and policies need to be written to protect clean drinking water, preserve open space, invest in our parks and forests, and restore the rivers, wetlands, and coastal ecosystems that give our communities a fighting chance against climate change. Good environmental policy is evidence-based, crafted with input from the affected communities, and implemented in a time-sensitive manner that reflects the urgency of the situation it is designed to address.
+
+    As a candidate running to represent communities along the Merrimack River watershed, I know firsthand the importance of safeguarding water quality and stopping pollution before it ever reaches our neighborhoods. I support strict enforcement of our environmental protections and mandates, and I believe in the principle that polluters - particularly large corporate polluters - should be held responsible for the damage they cause.
+
+    Conservation and economic growth aren't opposing forces. In fact, they reinforce each other. Strategic investment in climate resilience, sustainable agriculture, clean energy, and outdoor recreation creates jobs and costs less over time in addition to protecting the natural resources our children and our children’s children will eventually inherit. It is vital that we make these investments now so we can guarantee a beautiful, healthy, and resilient Massachusetts for generations to come.
+
+- candidate_first_name: Connor
+  candidate_last_name: Murray
+  state: ma
+  race: State House of Representatives
+  district: 18th Essex
+  party: Democratic
+  question: ma-q4
+  date: 2026-07-31
+  primary_candidate: false
+  response: |
+    Healthcare is a human right that should be accessible to everyone, no matter where they live or what they earn. I support expanding access to primary care, mental health services, reproductive and maternal care, and community health centers, and addressing workforce shortages head-on by investing in the physicians, nurses, EMTs, and health professionals who keep our healthcare system running.
+
+    Lowering healthcare costs means greater price transparency, cheaper prescription drugs, stronger public health infrastructure (such as air quality monitoring), and more preventive care, because stopping illness before it emerges is almost always cheaper than treating it after the fact. A healthier population translates directly to stronger families, stronger communities, and a stronger economy.
+
+    Massachusetts has led the nation in healthcare for many years, yet too many residents still put off care they need because of unreasonably high costs. In fact, approximately 40% of Massachusetts families reported struggling to pay for healthcare in 2025, and an eighth of Massachusetts residents are in medical debt. While I am proud of what this state has accomplished in the healthcare sector, I am incredibly disappointed that those resources are unattainable for so many of us. That is why I support Medicare for All in Massachusetts, which would reduce costs for families, small businesses, and municipalities alike, while simultaneously eliminating the administrative burden health insurance companies have placed on our state’s medical professionals. Everyone deserves timely, high-quality care, and we need to build a new system that puts patients over profit.
+
+- candidate_first_name: Neil
+  candidate_last_name: Miller
+  state: ma
+  race: State House of Representatives
+  district: 26th Middlesex
+  party: Democratic
+  question: ma-q5
+  date: 2026-07-31
+  primary_candidate: true
+  response: |
+    I support increased funding for UMass schools to ensure MA students can attend excellent public schools in our state. The UMass system should expand eligibility for tuition-free enrollment, and the state legislature can allocate funding from the Fair Share Amendment to expand opportunity. Beyond the UMass system, I support expanding student debt forgiveness. In my professional capacity, as a data scientist supporting the federal workforce, my team was focused on improving the Public Service Loan Forgiveness program. Student loan forgiveness can also be used to attract top talent into public service in Massachusetts. Finally, we need to do a better job educating students about financial assistance opportunities available to go to college. Otherwise, students and parents can be scared away by the sticker price of college. HS graduation requirements that will come before the legislature next session will likely include post-graduate planning; this is an opportunity to raise awareness of financial aid programs.
+
+- candidate_first_name: Neil
+  candidate_last_name: Miller
+  state: ma
+  race: State House of Representatives
+  district: 26th Middlesex
+  party: Democratic
+  question: ma-q6
+  date: 2026-07-31
+  primary_candidate: true
+  response: |
+    I am a graduate student myself, and many of my closest friends as a young person in Cambridge/Somerville are early career scientists. Therefore, this issue of personal importance to me. The federal government is retreating from its traditional role funding scientific research. Massachusetts should fill the gap. Our state's economic vitality is based on the discoveries made by scientists - especially grad students and researchers early in their career. Continued investment in research will likely lead to outsized returns, as companies form in Massachusetts based on the discoveries made here. Specifically, I believe the state should fund grants that go directly to young scientists, and not just to established research orgs at big universities. Even before cuts, federal research funding has gotten harder to access if you're not a senior academic. By giving grants to a wider base of researchers, Massachusetts can make sure good ideas are explored, whether it's from a faculty head or a scientist who just finished their PhD.
+
+- candidate_first_name: Neil
+  candidate_last_name: Miller
+  state: ma
+  race: State House of Representatives
+  district: 26th Middlesex
+  party: Democratic
+  question: ma-q2
+  date: 2026-07-31
+  primary_candidate: true
+  response: |
+    As a data scientist who has used machine learning methods and generative AI over the last decade, I want to help my colleagues understand the tech in order to create effective regulations. Companies that build frontier models should be required to disclose basic information about how their models were trained, as well as the environmental impact (like electricity and water). Additionally, we should explore liability for these companies if their models are used for wrongdoing. Given the limited economic benefits data centers provide to the communities they are located, I will speak out against tax breaks or incentives for data centers in Massachusetts. Having worked as a public servant myself, I know first-hand that AI (like many tools) can sometimes help government work more effectively. However, an AI model cannot be help accountable for making poor decisions - only a human can. Therefore, decisions around policy or the provision of government services must always be made by humans.
+
+- candidate_first_name: Neil
+  candidate_last_name: Miller
+  state: ma
+  race: State House of Representatives
+  district: 26th Middlesex
+  party: Democratic
+  question: ma-q3
+  date: 2026-07-31
+  primary_candidate: true
+  response: |
+    I support increased resources for DCR to invest in maintaining open-space preserves and parks. Locally, I will pressure DCR to expand access to Riverbend Park (and generally making Memorial Drive less car-centric), and will push for legislation mandating that DCR take these steps. One of the greatest threats to our region's land-based resources is sprawling, exurban development. As a housing advocate, I will champion increased infill development in existing residential neighborhoods. Thanks to campaigns I helped lead, Cambridge is moving forward with more than 1000 new affordable homes, and we overturned a century of exclusionary zoning rules. If we can sustainably add housing in a dense city like Cambridge, other suburbs in the eastern part of the state can absolutely do the same.
+
+- candidate_first_name: Neil
+  candidate_last_name: Miller
+  state: ma
+  race: State House of Representatives
+  district: 26th Middlesex
+  party: Democratic
+  question: ma-q4
+  date: 2026-07-31
+  primary_candidate: true
+  response: |
+    Massachusetts offers some of the best health care in the world, but not everyone is able to access this care. I'm running for state representative so all of my neighbors can get world-class care.
+
+    Health care is a personal issue for me and so many of my neighbors. My wife has a chronic condition and relies on prescription medicine to stay well.
+
+    And for the past several years, we helped take care of my wife's grandmother. Ariella's babushka was a Russian immigrant, who was on MassHealth. And she got life-saving care from MassHealth — home health aides who were literal angels as far as I'm concerned. But the burden to access that care — paperwork, phone calls, home visits anytime she went to the hospital and then came back home — took away from the quality time we could spend together before she passed away.
+
+    I support a single-payer health care system. I will also prioritize making it easier for residents to access MassHealth, by simplifying the application and verification process.
+
+    Residents can face unacceptable wait times to find a new PCP or get emergency care. I will support policies that build capacity to address ER wait times and primary care wait times. This includes paying PCPs more, such as by increasing reimbursements and student loan assistance.
+
+    I will also stand firm in defense of reproductive rights. Reproductive care is health care. Massachusetts must protect what Texas and other states are trying to take away.
+
+- candidate_first_name: Evan
+  candidate_last_name: MacKay
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q5
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    Education should be a public good, not a lifelong debt burden. I support making Massachusetts public colleges and universities tuition free for students and families in need, while moving toward truly debt free higher ed by also addressing fees, books, housing, food, transportation, and child care. These are often the costs that force students to leave school even when tuition is covered. Massachusetts should use Fair Share revenue and other progressive funding sources to guarantee that low- and middle-income students can attend public higher education without taking on debt. We should expand paid work study programs, emergency completion grants, child care assistance, and transfer pathways from community colleges. The Commonwealth must also provide enough direct funding that affordability is not achieved by underpaying faculty, graduate workers, or staff. As the former president of the Harvard Graduate Students Union, I have seen how financial insecurity determines who can pursue graduate education and who is pushed out. College affordability must include graduate students and other student workers, many of whom teach courses and conduct research while struggling with rent, health care, and basic living costs. I would also support stronger oversight of predatory lending and loan-servicing practices and advocate for broad student-debt relief. Affordable housing, groceries, and utility bills will also help open up access to education and higher education for all people.
+
+- candidate_first_name: Evan
+  candidate_last_name: MacKay
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q6
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    The 25th Middlesex District is home to an enormous number of graduate students, postdoctoral fellows, laboratory staff, and other scientists connected to Harvard, MIT, and research institutions across the region. Their research supports public health and is a major part of the Massachusetts economy, but many are now facing abrupt funding and employment uncertainty. I support fully funding and strengthening the DRIVE initiative, including immediate bridge funding for research disrupted by federal cuts or delays. Support must reach people quickly, not just institutions. I would prioritize direct one-year fellowships and stop-gap support for early career researchers whose NIH K awards or T32 training awards are canceled, frozen, delayed, or highly rated but unfunded. When Harvard's NIH grants were frozen, students supported through fellowships and training grants faced immediate uncertainty. The Commonwealth could have guaranteed that support, with repayment once federal funding resumed. I also support creating a revolving Research Resilience Fund. When federal funding that has been delayed is eventually released, institutions could repay the state support, allowing the same money to protect another research program in the future. As the former president of the Harvard Graduate Students Union, I fought for fair pay, stable appointments, collective-bargaining rights, protections for international researchers, affordable housing and child care, and clear career pathways. Early-career scientists and their unions should have a seat at the table when these programs are designed. The state should report who receives funding, how quickly it reaches researchers, and how many jobs or training positions it preserves.
+
+- candidate_first_name: Evan
+  candidate_last_name: MacKay
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q2
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    AI rules should be strongest when a system can cost someone a job, deny health care or housing, affect public benefits, or expose people to government surveillance. Massachusetts should require public disclosure, impact assessments, independent testing, and ongoing audits when AI is used to make or materially influence decisions about employment, housing, education, health care, insurance, credit, public benefits, or policing. I support strict privacy protections and significant limits on facial recognition and other biometric surveillance. Companies and agencies should also be accountable when their systems discriminate or cause preventable harm. My labor background particularly informs my concern about algorithmic management. Employers should not use opaque systems to surveil workers, set unsafe workloads, suppress organizing, or automatically discipline or terminate someone without accountable human review. State agencies should disclose when they use AI, publish procurement contracts and evaluations, and never use "proprietary system" or "trade secret" claims to evade public accountability. Simultaneously, Massachusetts should not burden lower risk research, accessibility tools, creative applications, or small businesses in requirements designed for high stakes systems. The rules should depend on what a system does and whom it can harm, not on the technology or marketing label involved. Many of my neighbors, co-workers, and former classmates from my Masters in Statistics are involved in AI that is helping people and our community. Regulation and guardrails will help address concerns people will have and when people are not fearful, we can have more open conversations about positive possibilities with new technologies.
+
+- candidate_first_name: Evan
+  candidate_last_name: MacKay
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q3
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    Land, water, and open space assets should be managed as public resources to improve health, climate resilience, transportation options, and recreation. In a dense district like ours, we should reclaim public land that is underutilized, and identify better uses for it. I support stronger protections for drinking water sources and wetlands, expansion of the urban tree canopy, green infrastructure to reduce flooding and extreme heat, and sustained funding for park maintenance, accessibility, and ecological restoration. State agencies such as DCR must use transparent, evidence-based planning and meaningfully involve the people who use these spaces, including people walking, biking, using mobility devices, living nearby, and working in environmental and public-health fields. We must also fully fund DCR, which is facing serious operating-budget cuts. Memorial Drive is an excellent example. It is state controlled parkland along the Charles River, but it generally functions as a high speed commuter highway that divides neighborhoods from the river. I support repurposing the road on weekends for recreation, public health, and community use. I also support improving safety by reducing dangerous speeding, adding safer crossings, and continuous, separated space for people outside of cars. These changes would expand access to open space while making it safer and more comfortable to travel through Cambridge. Public land should remain genuinely public, environmentally resilient, and accessible to people who do not travel by car.
+
+- candidate_first_name: Evan
+  candidate_last_name: MacKay
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q4
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    High quality health care should be accessible to everyone, regardless of ability to pay, employment status, or immigration status. Cambridge contains world class health and research institutions, yet many students, gig workers, immigrants, and people between jobs still struggle to obtain timely, affordable care. I would work to protect and expand MassHealth, strengthen the Health Safety Net, and ensure continuous coverage when people change jobs or experience income fluctuations. Massachusetts should invest more in primary care, community health centers, mental health and substance use treatment, reproductive and gender-affirming care, dental care, and community based clinics. No patient should have to skip a medication, test, or doctor's visit because of cost. I support stronger prescription drug affordability and greater accountability for insurers, hospital systems, pharmacy benefit managers, and private-equity hospital owners. I also support moving Massachusetts toward a universal, publicly financed health care system so that access to treatment is determined by medical need, not a person's job, income, or an insurer's profit calculations.
+
+- candidate_first_name: Marjorie
+  candidate_last_name: Decker
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q5
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Higher education is the engine of our state's economy and scientific discovery, but it should not be a debt trap. To reduce the financial burden on students, we must invest in public programs that expand access and lower costs across the board.
+
+    In recent years, Massachusetts has made historic strides toward universal higher education. I strongly support and celebrate the success of MassReconnect, which made community college completely tuition- and fee-free for state residents aged 25 and older. Building on this success, we expanded this model statewide through MassEducate, making public community college free for all Massachusetts residents, regardless of age or income. Crucially, our commitment to education must be inclusive. I am a staunch advocate for our state's Tuition Equity Law, which ensures that undocumented students and immigrants who attended a Massachusetts high school for at least three years can access in-state tuition and state financial aid.
+
+    To build on this momentum, I support expanding the MassGrant Plus program to completely cover tuition, fees, and book costs for low- and middle-income students attending our state's four-year public universities. By protecting immigrant students, strengthening worker rights, and funding our public institutions as public goods, we can ensure that a career in science and higher education is accessible to everyone, regardless of their background.
+
+- candidate_first_name: Marjorie
+  candidate_last_name: Decker
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q6
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Early-career researchers and graduate students drive Massachusetts' innovation economy, but federal funding uncertainty and rising living costs threaten our scientific talent pipeline. To protect our research ecosystem, we must expand state-backed fellowships, protect living stipends, and directly leverage state resources to insulate our institutions from federal cuts.
+
+    I remain in close communication with our Congressional delegation to determine how the Commonwealth can best shield local research from federal budget cuts. Recognizing this urgency, the House of Representatives passed a landmark economic development bill including $200 million to offset shortfalls in federal research funds. Within the package, $175 million was allocated for our public universities and $25 million for private nonprofit institutions. I will advocate for utilizing these investments, alongside entities like the Massachusetts Life Sciences Center and MassTech Collaborative, to fund dedicated early-career training grants, post-doctoral fellowships, and bridge funding for emerging researchers.
+
+    Ensuring a significant portion of this state relief directly supports graduate students and early-career scientists will keep breakthrough projects on track. Furthermore, scientific discovery should never be reserved for those who can afford low pay in high-cost regions. I will continue fighting for state grant guidelines that guarantee living stipends, health coverage, and housing protections for researchers, while expanding state science policy fellowships to empower underrepresented scientists to lead Massachusetts in clean energy, biotechnology, and public health.
+
+- candidate_first_name: Marjorie
+  candidate_last_name: Decker
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q2
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Artificial intelligence offers incredible potential, but our primary focus must always be protecting workers, families, and everyday people. As technology advances rapidly, residents are rightly concerned about job displacement, unfair automated decisions, and the loss of personal privacy. Balancing innovation with accountability means establishing common-sense safeguards so technology serves the public good rather than undercutting working-class communities.
+
+    First, we must protect workers by ensuring AI tools assist employees rather than serve as a pretext for sudden mass layoffs or invasive workplace surveillance. Workers deserve transparency when automated systems impact their hiring, evaluations, or employment status. Second, we must safeguard personal privacy by preventing tech companies from harvesting and selling personal data without explicit consent.
+
+    Common-sense oversight means drawing clear lines against real-world harms — like identity theft, scam impersonations, and algorithmic bias in housing, credit, and healthcare — while allowing smaller businesses, local entrepreneurs, and researchers the freedom to innovate. Protecting innovation does not require sacrificing worker dignity or personal privacy. By focusing safeguards strictly on high-risk uses and corporate accountability, Massachusetts can lead in tech development while keeping our workforce secure and ensuring tech tools benefit everyone, not just large corporations.
+
+- candidate_first_name: Marjorie
+  candidate_last_name: Decker
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q3
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Growing up in public housing, I know firsthand how vital public parks, green spaces, and clean natural preserves are for working-class families who might not otherwise have access to nature. Protecting our natural resources requires an active defense of our water supplies, public lands, and community health against emerging environmental threats.
+
+    A critical concern for our natural infrastructure is the resource intensity of proposed AI data centers. These high-density facilities place an immense strain on local energy grids and draw millions of gallons of water for cooling. I strongly support a moratorium on data center expansion until state regulators thoroughly evaluate their impact on our water tables, energy capacity, and local ecosystems. We cannot allow corporate computing demands to compromise community drinking water or drain local resources.
+
+    Additionally, I am leading efforts to combat toxic PFAS "forever chemicals" that pollute our soil, rivers, and agricultural lands. My focus is on restricting PFAS in consumer products, eliminating chemical discharges into local waterways, and supporting farmers whose land is disrupted by toxic runoff. By establishing strict oversight on industrial water usage, funding park access for all neighborhoods, and aggressively remediating chemical pollutants, we can ensure our water resources and open spaces remain clean, accessible, and protected for generations to come.
+
+- candidate_first_name: Marjorie
+  candidate_last_name: Decker
+  state: ma
+  race: State House of Representatives
+  district: 25th Middlesex
+  party: Democratic
+  question: ma-q4
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Healthcare is a fundamental human right, yet skyrocketing out-of-pocket costs and corporate practices continue to put essential care out of reach for too many families. Ensuring affordable, ready access to care requires confronting corporate intermediaries, lowering drug prices at the source, and removing arbitrary insurance barriers that delay life-saving treatments.
+
+    To drive down costs, I supported the major PBM reforms passed by the Legislature last session to bring transparency and oversight to pharmacy benefit managers. Moving forward, we must continue evaluating additional ways to lower drug prices, including state-sponsored, in-state drug manufacturing to directly produce affordable essential medicines like insulin, naloxone, and epinephrine, bypassing corporate monopolies to reduce costs for residents.
+
+    Equally important is guaranteeing that care isn't blocked by bureaucratic hurdles. I proudly authored and passed landmark legislation reforming "step therapy" — the harmful insurance practice requiring patients to "fail first" on cheaper, insurer-preferred drugs before receiving the medication their doctor actually prescribed. Moving forward, I am fighting to establish caps on out-of-pocket costs for prescription drugs, expand MassHealth eligibility, protect our community safety-net hospitals, and maintain telehealth payment parity. Healthcare decisions must remain between patients and their trusted medical providers, not insurance companies. By building on recent reforms, tackling high drug prices, and eliminating barriers to care, we can ensure Massachusetts delivers affordable, high-quality healthcare to every resident.
+
+- candidate_first_name: Johnnie
+  candidate_last_name: McKnight
+  state: ma
+  race: State House of Representatives
+  district: 11th Hampden
+  party: Democratic
+  question: ma-q5
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    Students seeking to attend college should receive meaningful financial support so they can successfully complete their education without carrying burdensome student loan debt that delays major life milestones, such as purchasing a home, starting a family, or building long-term financial stability.
+
+    To reduce the financial burden on students, financial aid packages and need-based grants should be expanded, particularly for low- and middle-income students. By increasing grant funding, students can rely less on loans and graduate with significantly less debt.
+
+    Beyond tuition, policymakers must also address the rising cost of housing, textbooks, transportation, and other essential college-related expenses. No student should have to choose between purchasing textbooks and paying for food or housing. Expanding support for these non-tuition costs and increasing wages for work-study positions would help students meet their basic needs while remaining focused on their education.
+
+    We should also increase investment in vocational schools, technical education, and skilled trade programs while strengthening partnerships with employers. These collaborations can provide students with paid, hands-on learning opportunities that allow them to earn an income while developing the skills needed for high-demand careers.
+
+    Finally, the student loan forgiveness process should be streamlined for graduates who enter public service professions. Making loan forgiveness more accessible for teachers, healthcare workers, first responders, and other public servants would help address workforce shortages, encourage careers in essential fields, and allow graduates to achieve important financial milestones sooner.
+
+- candidate_first_name: Johnnie
+  candidate_last_name: McKnight
+  state: ma
+  race: State House of Representatives
+  district: 11th Hampden
+  party: Democratic
+  question: ma-q6
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    To promote the development of graduate students and early-career scientists in my community, I will first seek to understand the needs of the scientific community and identify its key stakeholders. By fostering collaboration among scientists, academic institutions, industry partners, and relevant organizations, I aim to support community dialogue and help build an ecosystem that facilitates mentorship, professional development, and meaningful training opportunities.
+
+    I will advocate for increased access to paid fellowships and training grants that enable graduate students and early-career scientists to develop their skills, gain valuable research and professional experience, and earn an income while advancing their careers.
+
+    I will also encourage greater resource sharing so that graduate students and early-career scientists have improved access to professional networks, mentorship opportunities, and information about funding and career development. By engaging directly with these individuals, I will work to better understand their priorities and challenges. Together with colleagues and community partners, I will explore opportunities to allocate resources effectively and strengthen fellowship and grant programs that support the next generation of scientists throughout their career development.
+
+- candidate_first_name: Johnnie
+  candidate_last_name: McKnight
+  state: ma
+  race: State House of Representatives
+  district: 11th Hampden
+  party: Democratic
+  question: ma-q2
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    I support AI regulations that establish both legal and ethical protections for consumers and online users. These protections should include, but not be limited to, ensuring that users' personal information is not shared without their explicit consent and that additional safeguards are in place for vulnerable populations, including minors, older adults, and persons with disabilities.
+
+    As AI continues to evolve rapidly, I believe regulatory frameworks should promote transparency and public understanding of how AI systems are intended to be developed and used by companies. Appropriate government oversight and clear regulatory guidelines are essential to ensure that AI operates within a legal and ethical framework that serves the public interest.
+
+    At the same time, I believe there must be a balance between effective oversight and fostering innovation. Regulations should focus on preventing or mitigating real harms while providing clear, transparent standards that help educate both developers and the public. Well-designed regulation can promote responsible innovation without unnecessarily hindering technological advancement.
+
+    Achieving the right balance between necessary oversight and overregulation will require ongoing collaboration among government, industry, researchers, and civil society. By fostering open dialogue among stakeholders, we can develop policies that encourage continued innovation while ensuring robust protections for consumers and maintaining public trust in AI technologies.
+
+- candidate_first_name: Johnnie
+  candidate_last_name: McKnight
+  state: ma
+  race: State House of Representatives
+  district: 11th Hampden
+  party: Democratic
+  question: ma-q3
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    I support policies that promote environmental conservation and advance efforts to reduce carbon emissions and greenhouse gas emissions in alignment with established environmental goals. Protecting our natural resources while building a more sustainable future is essential for the health and well-being of current and future generations.
+
+    This includes implementing tax incentives for individuals and families who adopt environmentally sustainable practices, such as installing solar energy systems, improving energy efficiency, or participating in other conservation initiatives. Incentivizing these efforts can encourage broader community participation in reducing our environmental footprint.
+
+    I also support holding corporations accountable for practices that cause significant environmental harm. Companies that contribute disproportionately to pollution or environmental degradation should bear greater responsibility for mitigating those impacts. Revenue generated through these measures should be invested in protecting vulnerable communities that are disproportionately affected by environmental hazards, while also strengthening conservation efforts for our national parks, public lands, and wildlife.
+
+    Finally, I support policies that proactively prevent further environmental degradation through responsible stewardship, sustainable development, and science-informed decision-making. By balancing environmental protection with economic growth, we can create policies that preserve our natural resources, strengthen community resilience, and ensure a healthier environment for future generations.
+
+- candidate_first_name: Johnnie
+  candidate_last_name: McKnight
+  state: ma
+  race: State House of Representatives
+  district: 11th Hampden
+  party: Democratic
+  question: ma-q4
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    I support policies that reduce the cost of healthcare, including prescription medications, co-payments, deductibles, and preventive care services. The rising cost of healthcare places a disproportionate burden on low-income individuals and families, often creating barriers to accessing the care they need.
+
+    I also support expanding access to free and low-cost programs that provide health education, preventive care, and chronic disease management, particularly for vulnerable communities that experience higher rates of preventable illness and poorer health outcomes. Investing in prevention and education can improve overall health while reducing long-term healthcare costs.
+
+    The constituents I seek to represent as a State Representative include many immigrants and low- to middle-income families. Expanding equitable access to affordable healthcare services, preventive programs, and community resources is an important step toward reducing health disparities and improving health outcomes across the community.
+
+- candidate_first_name: Dan
+  candidate_last_name: Koh
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q1
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Massachusetts is home to the world's leading research institutions, and they are one of our greatest competitive advantages. Federal investments in research don't just produce scientific breakthroughs, they create jobs, strengthen our economy, improve public health, and help train the next generation of scientists, engineers, physicians, and entrepreneurs. As someone who served in the Biden Administration, I saw firsthand how strategic federal investments can drive innovation while creating opportunity. I support robust funding for agencies like the NIH, NSF, DOE Office of Science, NOAA, and NASA, as well as partnerships between universities, national laboratories, hospitals, and the private sector. Strong public investment should also come with strong accountability. Research must be conducted with transparency, rigorous ethical standards, and safeguards that protect national security, scientific integrity, and public trust. Researchers deserve the freedom to pursue evidence wherever it leads, free from political interference. I also believe we should expand opportunities for students from every background to pursue careers in STEM, invest in workforce development, and strengthen pathways between research institutions and local communities.
+
+- candidate_first_name: Dan
+  candidate_last_name: Koh
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q2
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Artificial intelligence has enormous potential to improve healthcare, education, scientific research, and economic productivity. But innovation cannot come at the expense of public safety, workers' rights, privacy, or democratic accountability. I support a risk-based approach to AI regulation. High-risk systems, including those used in healthcare, hiring, housing, lending, criminal justice, elections, or critical infrastructure, should meet clear standards for transparency, testing, independent audits, and human oversight. Americans deserve to know when AI is making decisions that affect their lives and have meaningful avenues for appeal. I also support strong protections for consumer privacy, safeguards against algorithmic discrimination, requirements for cybersecurity, and transparency around AI-generated content to combat fraud and misinformation. As AI continues to drive demand for massive computing infrastructure, we also need rules that ensure large data centers do not shift their environmental and infrastructure costs onto working families. Projects of that scale should be subject to rigorous environmental review, meaningful community input, and requirements that developers cover the costs of needed grid upgrades while accelerating the transition to clean energy. At the same time, we should avoid burdensome regulations that make it harder for researchers, startups, and responsible innovators to compete. The goal should be smart guardrails that build public trust while allowing American innovation to thrive.
+
+- candidate_first_name: Dan
+  candidate_last_name: Koh
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q3
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Protecting our natural resources is essential to both our environment and our quality of life. Across the Sixth District, our coastlines, rivers, wetlands, forests, and parks support local economies, protect communities from flooding, and provide places for families to enjoy the outdoors. I support increased federal investment in land conservation, coastal resilience, clean water infrastructure, and restoration projects that help communities adapt to climate change. Protecting wetlands, marshes, and other natural landscapes helps reduce flooding, improve water quality, protect wildlife, and make our communities more resilient. We also need to ensure that communities have the technical assistance and funding necessary to access federal conservation programs, particularly smaller municipalities that often lack grant-writing capacity. Responsible land management also means planning for growth. We can build the housing our region needs while protecting environmentally sensitive areas by investing in transit-oriented development, modern infrastructure, and thoughtful local planning. Finally, I believe environmental stewardship must go hand in hand with environmental justice. Protecting our natural resources is about public health, economic resilience, and leaving a stronger Massachusetts for future generations.
+
+- candidate_first_name: Dan
+  candidate_last_name: Koh
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q4
+  date: 2026-07-15
+  primary_candidate: false
+  response: |
+    Healthcare should be affordable, accessible, and built around helping people get care when they need it. That's why one of my top priorities is making sure no one has to struggle to find or keep a primary care doctor. I support creating a Primary Care Common Fund that pools primary care funding and pays practices directly, so patients can keep their primary care doctor when they change jobs, insurance plans, or move. Combined with a major expansion of National Health Service Corps loan repayment, this would strengthen the primary care workforce, reduce wait times, and make it easier for people to get preventive care before small problems become expensive emergencies. I also support building on the Affordable Care Act by expanding coverage, protecting Medicare and Medicaid, defending coverage for people with pre-existing conditions, allowing Medicare to negotiate more prescription drug prices, and lowering out-of-pocket drug costs. I also support the transition to a Medicare for All system that ensures all Americans receive high-quality, affordable insurance. Massachusetts is home to world-class hospitals, researchers, and life sciences companies. We should continue investing in biomedical research, public health preparedness, mental healthcare, maternal healthcare, and community health centers while ensuring scientific evidence guides federal policy. Every family deserves the peace of mind that they can find a primary care doctor, fill a prescription, and receive high-quality care without worrying that illness will lead to financial hardship. That's the kind of healthcare system I'll fight to build.
+
+- candidate_first_name: Craig
+  candidate_last_name: Swallow
+  state: ma
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: ma-q1
+  date: 2026-07-29
+  primary_candidate: true
+  response: |
+    Research universities and publicly funded research programs are essential to public health, economic development, and long-term national competitiveness. I support strong, stable federal investment in basic and applied research through agencies like NIH, NSF, DOE, and CDC, along with robust support for public universities and research partnerships that help discoveries move from the lab into real-world use.
+
+    At the same time, public investment must come with accountability. I support transparent reporting on how funds are spent, strong conflict-of-interest rules, open scientific integrity standards, and protections against political interference in research. Oversight should focus on ethical conduct, public value, workforce development, and equitable access to opportunity, not on ideological censorship or micromanagement that discourages innovation.
+
+    The outcomes I want are clear: better public health, stronger climate and energy solutions, expanded educational opportunity, and more high-quality jobs tied to research, manufacturing, and innovation. I also want federal research investments to reach communities beyond the usual hubs, including working-class and coastal communities in Massachusetts, so that science funding supports both discovery and shared prosperity.
+
+- candidate_first_name: Craig
+  candidate_last_name: Swallow
+  state: ma
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: ma-q2
+  date: 2026-07-29
+  primary_candidate: true
+  response: |
+    I support a balanced framework for AI regulation that protects the public while allowing responsible innovation to continue. We should regulate AI where the risks are highest: consumer privacy, discrimination, labor exploitation, election manipulation, fraud, surveillance abuse, and high-stakes uses in healthcare, housing, employment, education, and criminal justice.
+
+    That means clear transparency standards, strong data privacy protections, disclosure requirements for AI-generated political or deceptive content, independent audits for high-risk systems, and legal accountability when companies deploy AI in ways that harm people. Workers and consumers should not be forced to bear the risk of systems they cannot inspect or challenge.
+
+    At the same time, I do not believe regulation should punish open research, small innovators, or beneficial uses in medicine, education, accessibility, or scientific discovery. The line between necessary oversight and overregulation is whether a rule meaningfully protects the public interest or simply creates barriers without reducing harm.
+
+    My view is simple: innovation should serve people, not outrun democratic accountability. We can support scientific and technological progress while making sure AI is transparent, fair, and governed by rules that protect civil rights and the public good.
+
+- candidate_first_name: Craig
+  candidate_last_name: Swallow
+  state: ma
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: ma-q3
+  date: 2026-07-29
+  primary_candidate: true
+  response: |
+    Massachusetts must manage land-based resources with long-term stewardship, climate resilience, and public access in mind. I support policies that protect drinking water, wetlands, open space, farmland, forests, and coastal ecosystems while ensuring these resources are not sacrificed to short-term private gain.
+
+    That includes stronger conservation funding, protection of parks and preserves, climate-resilient land use planning, and support for local and regional efforts to restore wetlands, shorelines, and other natural systems that reduce flooding and protect biodiversity. I also support stronger environmental justice standards so that low-income communities and communities of color are not disproportionately burdened by pollution, poor water quality, or lack of access to green space.
+
+    Water policy should prioritize public health, watershed protection, and infrastructure investment so communities can rely on safe, affordable water in the face of climate stress. Land use policy should also discourage destructive speculation and support sustainable development patterns that preserve natural resources while addressing housing and transportation needs responsibly.
+
+    In practice, that means treating land and water as public goods. We need policies that preserve Massachusetts' natural resources for future generations while making sure all residents, not just the wealthy, can benefit from healthy ecosystems, clean water, and accessible public spaces.
+
+- candidate_first_name: Craig
+  candidate_last_name: Swallow
+  state: ma
+  race: US House of Representatives
+  district: 9
+  party: Democratic
+  question: ma-q4
+  date: 2026-07-29
+  primary_candidate: true
+  response: |
+    I believe healthcare is a human right, which is why I support Medicare for All and broader reforms that move us away from a profit-driven system. In the near term, we should expand access by strengthening community health centers, protecting Medicaid and CHIP, reducing prescription drug costs, expanding Medicare to include dental, vision, and hearing, and investing in the healthcare workforce so people can actually get timely care where they live.
+
+    Affordability means more than insurance cards. It means lowering out-of-pocket costs, addressing medical debt, improving mental health and substance use treatment access, protecting reproductive healthcare, and ensuring care is available in rural, coastal, immigrant, disabled, and underserved communities. I also support public investment in overdose prevention and harm reduction strategies as part of a serious public health response.
+
+    Readiness matters too. We need more providers, better reimbursement for essential services, stronger public health infrastructure, and support for hospitals and clinics facing workforce and funding pressures. Healthcare access should not depend on ZIP code, employment status, or immigration status.
+
+    My goal is a system where constituents can get preventive care, emergency care, reproductive care, mental healthcare, and ongoing treatment without financial ruin, long delays, or unnecessary barriers. Healthcare should be accessible, affordable, and centered on human dignity.
+
+- candidate_first_name: Mariah
+  candidate_last_name: Lancaster
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q1
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    As the only scientist in this race, I understand how far this administration has set back our research through its attacks on federally-funded universities and research programs. Congress must stabilize our scientific community and restore the investments torn away by this administration. One of my first priorities is to increase funding for the National Science Foundation, the Environmental Protection Agency, the National Oceanic and Atmospheric Administration, and other federally-supported research. Congress must undertake historic hiring and disbursement of research funds to offset the thousands of positions lost and hundreds of millions in grants canceled.
+
+    Shortsighted cuts only increase costs for our nation. The ongoing outbreaks of Cyclospora and New World Screwworm are the direct result of cuts to biosecurity programs, now requiring massive resources to counteract. An ounce of prevention is truly worth a pound of cure.
+
+    To train the next generation, Congress must restore student visas and pass legislation to restructure the federal student loan system. By eliminating interest on federal student loans for future and past borrowers, we allow our graduates to afford their degrees without trapping them into a lifetime of debt. I have experienced the lack of stability facing our scientists and researchers firsthand. The consequences of the existing cuts will last for generations if Congress does not act swiftly to restore the integrity of America's world-renowned research programs.
+
+    For us to remain a leader in the sciences, we must have reliable, long-term investments in scientific research.
+
+- candidate_first_name: Mariah
+  candidate_last_name: Lancaster
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q2
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    I support a national moratorium on data center development. Companies are overinvesting in these industries, creating a boom and bust economic bubble while selling out American workers and poisoning our environment. Congress must take swift action to halt development and to develop rigorous standards for any future data center construction.
+
+    Minimum standards should include: - Data centers must provide their own, low/no-carbon power. Our communities cannot be subsidizing the energy costs of these facilities. Existing data centers should pay a high-usage surcharge, for utilities to invest in their own low- to no-emissions energy infrastructure projects. As tech companies look to utilize nuclear power, Congress must strengthen the U.S. Nuclear Regulatory Commission by increasing staffing and monitoring capabilities.
+
+    - Prohibit the use of fossil fuels to power data centers and prioritize environmental justice for historically impacted communities.
+
+    - Mandatory public reporting of energy and water usage for data centers to ensure transparency and accountability. This allows communities to adapt in real time to make necessary changes to their agreements with these facilities. Communities should control their own resources, not data centers. - Cap water usage, mandate the use of non-potable water, such as greywater, for cooling, and require all discharges be filtered and free of harmful compounds. - Prohibit Clean Air Act and Clean Water Act exemptions for emissions and discharges from data centers.
+
+- candidate_first_name: Mariah
+  candidate_last_name: Lancaster
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q3
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    In Massachusetts, we need aggressive climate resilience and adaptation measures. We face both drought and flooding, along with widespread water quality issues as direct results of climate change. This starts with holding polluters accountable and enforcing our laws and regulations to protect our health and natural resources. I will advocate for the development of a new federal department to lead on climate adaptation, resilience, and disaster response with investments to support both disaster prevention and recovery.
+
+    Congress must ban fossil fuel leasing in federal waters and on public lands. I will support legislation such as the 'Keep It In The Ground Act', to prohibit new fossil fuel leases on federal lands, cancel non-producing leases, and permanently ban offshore drilling in the Atlantic and the Arctic. We must remove the threat of offshore drilling to permanently protect coastal districts such as the Sixth.
+
+    Congress must also prioritize the recreation and ecosystem benefits federal lands provide, from carbon sequestration, biodiversity, and pollutant reduction, to better water quality and flooding mitigation. I will fight to codify the Endangered Species Act, restoring protections for both species and their habitat. I will promote federal programs focused on increasing public access to parks and our coastlines and fully fund the operations and maintenance of our national parks and federal lands. In Congress, I will champion our public lands, coasts, and waters and work to increase public access to nature.
+
+- candidate_first_name: Mariah
+  candidate_last_name: Lancaster
+  state: ma
+  race: US House of Representatives
+  district: 6
+  party: Democratic
+  question: ma-q4
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    Healthcare is a human right. I support single-payer, universal healthcare - reducing the administrative costs and increasing access to care - including dental, vision, and hearing as well as disability resources, gender-affirming care, and all forms of reproductive healthcare. Abortion is healthcare and national access to birth control and abortion must be codified into federal law. More broadly, federal healthcare funding must be protected and expanded, including for funding community medicine programs such as the Massachusetts School-Based Medicaid Program. We need robust antitrust enforcement to break up healthcare monopolies. I support federal legislation to ban corporate entities from capturing the market for insurance, medication, and healthcare services. I will vote to allow the federal government to manufacture lower-cost generic versions of prescription drugs, so pharmaceutical companies cannot charge Americans more than the rest of the world for the same medication. I will introduce legislation to amend the "No Surprises Act," to ensure all emergency ambulance services are covered by insurance, and work to federally fund emergency services nationwide while phasing out private, for-profit ambulance companies. As a clinician, I recognize that climate change is a public health crisis. Global warming leads to increased risk of disease spread alongside degraded air and water quality. We must pass landmark environmental legislation, like the Green New Deal, to combat the both short-term and long-term health risks associated with climate change and pollution.
+
+- candidate_first_name: Tarik
+  candidate_last_name: Samman
+  state: ma
+  race: US House of Representatives
+  district: 5
+  party: Democratic
+  question: ma-q1
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    Funding should always be available for research and innovation. Like funding for any program, it should be conditioned on the results or outcomes sought and on the capability to achieve those results, with an oversight procedure in place to make sure nothing goes to waste.
+
+    In addition, given what has happened over the last two years, and as someone who witnessed firsthand the Trump administration's attacks on Harvard and the repercussions of these attacks, the outcome I am hoping to achieve is to pass laws that stop the government from ever cutting university funding or research for political reasons again. It hurts schools, it hurts students, it hurts the startups working with those schools, and it hurts our advancement in scientific discovery, which is a catalyst for economic development. That is why I have met with professors and talked extensively about this topic, and once in office I will consult with them to sponsor bills that stop the government from ever interfering in educational research or academic freedom again.
+
+- candidate_first_name: Tarik
+  candidate_last_name: Samman
+  state: ma
+  race: US House of Representatives
+  district: 5
+  party: Democratic
+  question: ma-q2
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    AI is a tool, and like any tool, it can be used to benefit or to harm. The problem with AI today is that it is advancing with too little oversight while being controlled by big tech companies whose primary goal is to collect our personal data and concentrate the power of AI in their own hands. That is where the line should be drawn.
+
+    Once in office, I will work to create a clear path forward for regulating AI so that it benefits everyone. I will establish strict limits on how companies and government agencies collect, store, and use our personal data. I will also ensure that AI continues on a path of innovation while staying environmentally responsible, safe, transparent, accountable, and free from bias, and that this innovation actually creates jobs rather than eliminates them. I will do this hand in hand with experts who aren't beholden to private interests over the public good.
+
+- candidate_first_name: Tarik
+  candidate_last_name: Samman
+  state: ma
+  race: US House of Representatives
+  district: 5
+  party: Democratic
+  question: ma-q3
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    Protecting our environment is protecting our children's future, and we cannot afford to wait. When it comes to land-based resources like parks, forests, water, rivers, lakes, etc., we quickly find that all these elements are deeply dependent on one another. Taking a holistic, ecological, and sustainable approach to not only conservation, but also to how we protect our people as we mitigate climate change, is key to preserving the future of Massachusetts and our region. The Massachusetts Department of Environmental Protection does much of this work, but due to climate change deniers in the federal government and special interest groups that corrupt our politics, this work has often slowed or even stalled completely.
+
+    I support a strong national transition to clean and renewable energy that reduces emissions and strengthens our economy. This means policies that prioritize the sustainability of our environmental resources. It's time to end federal subsidies for oil and gas companies and invest those resources in sustainable technologies and clean energy innovation. By doing so, we can create high-paying green jobs that rebuild our infrastructure, empower families to succeed, and prepare our communities for a sustainable future. We must begin building serious pathways to reverse atmospheric carbon, not just slow down our contributions to it, so that we can protect our communities from increasingly chaotic and destructive weather patterns.
+
+- candidate_first_name: Tarik
+  candidate_last_name: Samman
+  state: ma
+  race: US House of Representatives
+  district: 5
+  party: Democratic
+  question: ma-q4
+  date: 2026-08-01
+  primary_candidate: true
+  response: |
+    Every person deserves access to doctors, medicine, and mental health care without the fear of going into debt.
+
+    I support building a national path toward universal healthcare so every American can get care when they need it. This includes expanding Medicaid to cover people who remain uninsured and protecting the eighty million seniors, people with disabilities, and children who rely on it. We must also leverage Medicare's buying power to bring down prescription drug prices for everyone and hold big pharmaceutical companies accountable. We need to expand paid family, maternity, and medical leave and make it a standard protection for all workers.
+
+    I also want to address the growing shortage of medical and mental health professionals by launching federal incentive programs that recruit, train, and retain the workforce our communities rely on, such as primary care physicians and the expert nurses that so often support them.
+
+- candidate_first_name: Joe
+  candidate_last_name: Tache
+  state: ma
+  race: US Senate
+  district: 
+  party: Party for Socialism and Liberation
+  question: ma-q1
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Science should serve the public good, not line the pockets of greedy corporations. Today, corporations routinely patent the results of publicly funded research, and then sell the products back to working families at exorbitant prices. Insulin is one of the most egregious examples: in 1923, its discoverers sold the patent for a dollar so it could be affordably mass-produced to benefit humanity. Instead, pharmaceutical companies price gouge it, and over a million Americans ration their insulin.
+
+    I support dramatically expanding public investment in scientific research, and I support keeping the fruits of that research in public hands. Our platform calls for mass-producing generic versions of pharmaceuticals and medical devices currently locked behind corporate patents, so that publicly funded discoveries actually reach the public.
+
+    Investment in research also means investment in the people who do it. Our platform calls for a publicly funded guarantee to free education from pre-K through PhD in all fields. Early-career scientists in Massachusetts shouldn't have to choose between their research and paying rent, and they shouldn't be one canceled grant away from leaving science altogether.
+
+    The outcomes I'd fight for: a research enterprise insulated from political attacks and corporate control, a scientific workforce that working-class young people — including Black, immigrant, and rural students — can actually join, and discoveries that translate into public benefit rather than billionaire profits. Massachusetts is home to some of the world's great research institutions. The wealth and knowledge they generate should belong to society as a whole.
+
+- candidate_first_name: Joe
+  candidate_last_name: Tache
+  state: ma
+  race: US Senate
+  district:
+  party: Party for Socialism and Liberation
+  question: ma-q2
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Technological advancement should improve society. Under our current system, revolutions in technology always lead to devastation for workers: automation is used to eliminate jobs and drive down wages because the technology is deployed to maximize profit rather than to benefit the people who make society run.
+
+    Our proposed National Employment Emergency Act includes provisions specifically pertaining to AI and other advanced technology, to ensure it is properly regulated and deployed to benefit society. Our principle is simple: AI should be a public utility that is utilized to benefit the people and the planet, not billionaires.
+
+    That means oversight should protect workers from being automated out of their livelihoods. Massachusetts workers, from hospital staff to educators to scientists, deserve a voice in if and how these systems are deployed in their workplaces. To the extent that AI can replace dangerous or menial jobs, workers should be provided with alternative employment prospects, not laid off and tossed aside. We must also take stock of the social (i.e. youth mental health) and environmental impacts of AI and implement a plan to mitigate its most harmful effects.
+
+    The deepest innovations of the computer age — including the internet itself and the foundations of AI — came from publicly funded research. What actually slows socially useful innovation is a system where research priorities are set by tech billionaires who are motivated by lining their own pockets, not by what society needs. Public investment, public ownership, and public accountability can deliver both innovation and safety.
+
+- candidate_first_name: Joe
+  candidate_last_name: Tache
+  state: ma
+  race: US Senate
+  district:
+  party: Party for Socialism and Liberation
+  question: ma-q3
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Land, water, and open space are public goods, and they should be managed as such — for people and the planet, not for polluters' profits.
+
+    Our proposed National Environment Emergency Act makes the cleanup of contaminated water and soil a national priority, along with replacing aging and toxic infrastructure — including lead pipes and methane gas lines, both serious problems in Massachusetts' older housing stock and cities. It calls for immediately shutting down contaminating facilities in the communities most affected by polluters, and banning construction of new landfills, refineries, and other polluting facilities in those same communities. In Massachusetts, environmental burdens fall hardest on Black, immigrant, and working-class neighborhoods and on rural towns — environmental justice has to be at the center of resource management, not an afterthought.
+
+    More broadly, our platform treats the climate crisis as the emergency it is: seizing the billionaires' fossil fuel infrastructure, building a publicly owned renewable energy grid, and mobilizing a Climate Corps of workers — with union representation and job training — similar to the Civilian Conservation Corps, which built much of the public land infrastructure we still enjoy today. That same mobilization of people power is how we protect and expand parks and open space: with dedicated public investment and a workforce employed to steward it.
+
+    When land and water are managed for profit, they degrade. When communities have real power over them, through public ownership and democratic planning, they get protected.
+
+- candidate_first_name: Joe
+  candidate_last_name: Tache
+  state: ma
+  race: US Senate
+  district:
+  party: Party for Socialism and Liberation
+  question: ma-q4
+  date: 2026-08-01
+  primary_candidate: false
+  response: |
+    Healthcare is a human right, and our platform treats it that way: free, quality healthcare for all, with no premiums, no deductibles, no copays.
+
+    Our National Health Emergency Act proposes establishing a single-payer People's Health Service by converting the top health insurers to public ownership, and takes the top pharmaceutical manufacturers and distributors into public hands to mass-produce affordable generic medications and medical devices. It abolishes medical debt — which drives hundreds of thousands of American families into bankruptcy every year.
+
+    Access is about more than coverage. Massachusetts has some of the world's most prestigious hospitals and some of the country's highest premiums — and health deserts where Black and immigrant neighborhoods and rural communities lack primary care, specialists, and mental health professionals. Our platform calls for 1,000 new public hospitals and 5,000 clinics by 2035, prioritizing health deserts, and empowers communities to set local priorities like the opioid crisis and Black maternal health.
+
+    To staff this system, we would make medical and nursing school free, with campus housing and stipends, paired with a five-year service commitment in underserved areas.
+
+    We have the means to pay for this: we already spend more on healthcare than any other country, yet have worse outcomes than nations that cover everyone for less. The barrier isn't cost — it's the insurance, pharmaceutical, and healthcare corporations.
+
+    Scientists know better than anyone: we have the medical knowledge to keep people healthy. We lack a system organized to deliver it. That's what I'm running to change.

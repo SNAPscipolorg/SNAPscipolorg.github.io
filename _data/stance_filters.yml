@@ -27,6 +27,7 @@ races:
   - Lieutenant Governor
   - Local County Races [All]
   - Mayor
+  - RTD Board of Directors  # for CO
   - Secretary of State
   - State Assembly
   - State Auditor
@@ -60,6 +61,7 @@ race_ballot_order:
   - University Board of Regents
   - Mayor
   - Local County Races [All]
+  - RTD Board of Directors
 
 parties:
   - Democratic
@@ -69,3 +71,6 @@ parties:
   - No Party Preference
   - Independent
   - Green
+  - Non-partisan
+  - Party for Socialism and Liberation
+  - No Labels Party

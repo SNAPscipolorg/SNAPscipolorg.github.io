@@ -13,6 +13,9 @@ $stance-libertarian:  #DCA237; // Rich Gold
 $stance-no-party:     #6a6f76; // Neutral Slate (no party preference)
 $stance-independent:  #310A45; // Deep Purple
 $stance-green:        #2E7D32; // Forest Green
+$stance-non-partisan: #6a6f76; // Neutral Slate
+$stance-no-labels-party: #58138f; // Purple
+$stance-party-for-socialism-and-liberation: #E91E26; // Alizarin Red
 
 // Per-party bubble colors as (background, text) pairs, keyed by the slug
 // emitted at each render site ({{ party | downcase | replace: ' ', '-' }}).
@@ -26,11 +29,11 @@ $stance-party-colors: (
   "no-party-preference": ($stance-no-party,    #ffffff),
   "independent":         ($stance-independent, #ffffff),
   "green":               ($stance-green,       #ffffff),
+  "non-partisan":        ($stance-non-partisan, #ffffff),
+  "no-labels-party":     ($stance-no-labels-party, #ffffff),
+  "party-for-socialism-and-liberation":  ($stance-party-for-socialism-and-liberation, #ffffff),
 );
 
-// Derived tokens used by the redesigned state-page explorer (Direction C).
-// Despite the $snap- prefix these are Stance-specific, not style-guide colors,
-// so they stay here rather than in _snap-colors.scss.
 $snap-navy-dark: #18294a;
 $snap-navy-tint: #eef1f6;
 $snap-brick: #b0413a;
