@@ -313,3 +313,58 @@
     - Jobs and Workforce
   races:
     - University Board of Regents
+
+- id: ne-q27
+  question: >-
+    In what context would you seek scientific expertise and what type of
+    experts from scientific disciplines you would source information from when
+    providing legal counsel?
+  tag: Trust in Science
+  races:
+    - Attorney General
+
+- id: ne-q28
+  question: >-
+    Scientific evidence and our understanding of the world are always being
+    updated as new studies are done and more information becomes available.
+    What standards would your office use to determine whether information
+    based on scientific research provides a sufficient basis for litigation,
+    legal opinions, or enforcement actions?
+  tag: Policymaking Process
+  races:
+    - Attorney General
+
+- id: ne-q29
+  question: >-
+    Modern farms increasingly generate large amounts of operational data
+    including global positioning system (GPS) and supply chain records. What
+    role, if any, should the Attorney General play in protecting farmers' data
+    privacy while encouraging innovation and research?
+  tag: Agriculture
+  races:
+    - Attorney General
+
+- id: ne-q30
+  question: >-
+    State Attorney Generals often join multi-state coalitions on matters
+    affecting their residents, including cases involving environmental
+    regulation, public health, and consumer protection. What approach, if any,
+    would you take to deciding when Nebraska should participate in multi-state
+    legal action on science/health related issues?
+  tag: Policymaking Process
+  races:
+    - Attorney General
+
+- id: ne-q31
+  question: >-
+    Some of the roles of Attorney General relate to environmental law,
+    conservation, and protecting public health and safety including
+    representation in litigation, general legal counsel and advice, the review
+    of contracts, approval of rules and regulations, the drafting of legal
+    opinions, and enforcement of agency administrative orders. What principles
+    and priorities would guide your office’s approach to enforcing Nebraska’s
+    environmental laws? How, if at all, would you incorporate scientific
+    evidence and agency expertise into those decisions?
+  tag: Environment
+  races:
+    - Attorney General
